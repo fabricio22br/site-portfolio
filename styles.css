@@ -291,6 +291,7 @@ footer {
 .section-portfolio-card-icon-img {
   width: 24px;
   height: 24px;
+  cursor: pointer;
 }
 
 .section-experiences {
@@ -365,6 +366,7 @@ footer {
   align-items: center;
   justify-content: center;
   margin-bottom: 16px;
+  cursor: pointer;
 }
 
 .section-contact-item-icon {
