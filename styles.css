@@ -382,3 +382,38 @@ footer {
   justify-content: space-between;
   width: 40%;
 }
+
+@media only screen and (max-device-width: 450px) {
+  .content-container {
+    width: 96vw;
+    max-width: 96vh;
+  }
+
+  .botao-contato-navegacao {
+    width: 100%;
+  }
+
+  .hero-info {
+    width: 100%;
+  }
+
+  .ability-card-container {
+    row-gap: 36px;
+    grid-template-columns: auto;
+    margin-top: 12px;
+  }
+
+  .section-portfolio-grid {
+    row-gap: 36px;
+    grid-template-columns: auto;
+    margin-top: 24px;
+  }
+
+  .footer-content {
+    width: 100%;
+  }
+
+  .section-experiences-card {
+    width: 90vw;
+  }
+}
