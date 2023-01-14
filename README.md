@@ -5,7 +5,7 @@ The main goal is create a website with my professional information.
 
 # Preview
 
-<img src="https://github.com/fabricio22br/site-portfolio/blob/master/preview.png" height="500"/>
+<img src="https://github.com/fabricio22br/site-portfolio/blob/master/preview.png" height="500" width="500"/>
 
 ## Main concepts applied:
 
@@ -13,3 +13,24 @@ The main goal is create a website with my professional information.
 - DOM manipulation
 - Events
 - CSS Media Query
+
+## Instructions to run:
+
+1. clone the project:
+
+```
+git clone https://github.com/fabricio22br/site-portfolio.git
+
+```
+
+2. After clone open the folder:
+
+```
+site-portfolio
+```
+
+3. Open the index file with the browser:
+
+```
+index.html
+```
